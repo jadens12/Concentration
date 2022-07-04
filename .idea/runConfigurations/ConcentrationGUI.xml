@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ConcentrationGUI" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="gui.ConcentrationGUI" />
-    <module name="Concentration" />
+    <module name="src" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
